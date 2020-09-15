@@ -1,6 +1,6 @@
 from pythonping import *
 
-ip = "172.20.3.58"
+ip = "1.1.1.1"
 
 def main():
     
